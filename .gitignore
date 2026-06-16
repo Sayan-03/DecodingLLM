@@ -1,0 +1,11 @@
+# Python bytecode artifacts
+**/__pycache__/
+
+# Initialization files
+**/__init__.py
+
+# Generated JSON rules files
+**/merge_rules.json
+
+# Main execution entrypoint script
+main.py
